@@ -3,7 +3,6 @@
     width: 200px;
     height: 200px;
     border: 10px solid rgb(0, 0, 0);
-    margin: 20px;
     padding: 20px;
 }
 .box2 {
@@ -14,18 +13,13 @@
     border-bottom: 20px solid black;
     border-left: 10px solid black;
     border-right: 10px solid black;
-    margin-left: 280px;
     padding: 20px;
-    position: absolute;
-    bottom: 100px;
-    top: 280px;
+    margin-left: 260px;
 }
 .box3 {
     background-color: indianred;
     height: 200px;
     width: 200px;
     border: 10px solid black;
-    position: absolute;
-    bottom: 140px;
-    left: 68px;
+    margin-left: 40px;
 }
